@@ -1,2 +1,22 @@
 ﻿  Pong.cpp
+C:\VS Projects\Pong\Pong.cpp(11,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Pong\Pong.cpp(12,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Pong\Pong.cpp(15,39): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Pong\Pong.cpp(15,25): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
   Pong.vcxproj -> C:\VS Projects\Pong\Debug\Pong.exe
